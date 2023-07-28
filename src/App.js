@@ -42,6 +42,8 @@ function App() {
         </div>
 
       </div>
+
+      <p>View &nbsp; <a href="">Metadata</a> </p>
     </div>
     
   );
