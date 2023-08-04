@@ -39,6 +39,7 @@ function App() {
         </form>
         <div className="image">
           <img src=""  alt="AI generated Image" />
+          <img src=""  alt="AI generated Image" />
         </div>
 
       </div>
