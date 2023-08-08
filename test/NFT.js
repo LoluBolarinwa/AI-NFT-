@@ -24,7 +24,7 @@ describe('NFT', () => {
 
     // Mint 
     const transaction = await nft.connect(minter).mint(URL, { value: COST })
-    await transaction.wait()
+    // await transaction.wait()
   })
 
   describe('Deployment', () => {
